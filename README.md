@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysis
+# Employee-Data-Analysis
 
 # Overview
 Identifying Data Relationships with PostgreSQL. This challenge was to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program to help prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
