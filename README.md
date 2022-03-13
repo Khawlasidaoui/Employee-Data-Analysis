@@ -1,7 +1,7 @@
 # Employee-Data-Analysis
 
 # Overview
-Identifying Data Relationships with PostgreSQL. This challenge was to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program to help prepare Bobby’s manager for the “silver tsunami” as many current employees reach retirement age.
+Identifying Data Relationships with PostgreSQL. This challenge was to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program to help future-proof a company as current employees reach retirement age.
 
 # Results
 Looking at the summary data tables constructed:
@@ -11,6 +11,6 @@ Looking at the summary data tables constructed:
 - Several employees have been with the company long enough to change titles multiple times
 
 # Summary
-- How many roles will need to be filled as the "silver tsunami" begins to make an impact? As the "silver tsunami" prepares to make an impact, management should prepare for 1,549 employees to begin retiring.
+- As the "silver tsunami" mentorship program prepares to make an impact, management should prepare for 1,549 employees to begin retiring.
 
-- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? There are plenty of qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. The only category that is quite low is the manager category but that is expected as there are only a couple departments.
+- There are plenty of qualified, retirement-ready employees in the departments to mentor the next generation of the company's employees. The only category that is quite low is the manager category but that is expected as there are fewer departments. 
