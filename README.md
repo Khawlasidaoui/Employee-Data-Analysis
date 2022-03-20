@@ -4,6 +4,8 @@
 Identifying Data Relationships with PostgreSQL. This challenge was to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program to help future-proof a company as current employees reach retirement age.
 
 # Results
+![image](https://user-images.githubusercontent.com/79415699/159179822-cf68cff6-5a18-46e2-bd38-8948199fbb90.png)
+
 Looking at the summary data tables constructed:
 - 1,549 employees were shown to be eligible for the mentorship program
 - Senior Engineers were the largest group for the Retiring Titles
